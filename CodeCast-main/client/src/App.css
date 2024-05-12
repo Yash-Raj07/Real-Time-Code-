@@ -1,0 +1,31 @@
+.codemirror{
+   
+        min-height: 'calc(100vh -20px)';
+        font-size: '20px';
+        line-height: '1.6';
+        padding-top: '20px';
+    
+}
+/* .card shadow {
+        background-color: rgba(0, 0, 0, 0.5);} */
+
+ /* .container-fluid {
+  background-color: transparent !important;
+}  */
+/* .container-fluid {
+  background-color: transparent !important;
+} */
+
+/* .input{
+  background-color: rgba(255, 255, 255, 0.2);}  */
+
+/* .form-group {
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+
+  } */
+

@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-image: url(/src/images/finaldp.png);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: #1c1e29; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card{
+  background-color: transparent !important;
+} 
+
+.card-body {
+  background-color: rgba(81, 20, 20, 0.397);}
+
+  /* .card-body{
+    background-color: rgba(21, 129, 223, 0.871);}  */
+    .form-control{
+      background-color: rgba(81, 20, 20, 0.5);
+
+    }
